@@ -4,7 +4,7 @@ Civitas enables developers to build autonomous, fully on-chain verifiable AI age
 
 <img src="assets/erethiel-banner.jpg" alt="Banner" width="100%" />
 <p align="center">
-      <a href="https://x.com/erethielagent">
+      <a href="https://x.com/erethielagents">
       <img src="https://img.shields.io/twitter/follow/erethiel"
           alt="follow on Twitter"></a>
   <br>
